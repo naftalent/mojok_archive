@@ -5,7 +5,7 @@ This website is being shutting down starting from 28 March 2017. Starting from t
 
 You can open mojok_revision.xls file with Ms. Excel to read the content. For reading comfort, you can copy the column called "paragraph" to the Ms. Word, blog, or anywhere.
 
-This file is for research purpose only and copyrights belong to it's author and owner of Mojok.co.
+This file is for research purpose only and article copyrights belong to it's author and owner of Mojok.co.
 
 If you curious how I doing this project technically, you can read here http://nafiputrawan.space/2017/03/mengenal-web-archiving-studi-kasus-mojok-co-news-site/
 
